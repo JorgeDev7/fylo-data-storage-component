@@ -48,8 +48,9 @@ On your terminal write this command:
 
 1. First make a cd to your Desktop.
 
+2. 
 ```html
-  Some HTML code I'm proud of
+  npm run dev
 ```
 
 ### Useful resources
