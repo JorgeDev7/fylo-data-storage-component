@@ -49,7 +49,7 @@ On your terminal write this command:
 1. First make a cd to your Desktop.
 
 ```html
-<p>Some HTML code I'm proud of</p>
+  Some HTML code I'm proud of
 ```
 
 ### Useful resources
